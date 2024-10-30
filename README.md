@@ -7,3 +7,5 @@ Check out her socials <sub>down below</sub>
 Twitch: Twitch.tv/Elsee <a name="Twitch.tv/Elsee"></a>
 Discord: ElseeDiem
 Twitter: twitter.com/ElseeDiem
+
+[https://www.twitch.tv/Elsee](#Twitch.tv/Elsee)
