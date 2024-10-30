@@ -1,9 +1,4 @@
 # PlateUp-Automation
 An automation guide made by experimentation
 ### Disclaimer:
-I don't claim the idea of tis project.
-This automation guide has been inspired by Elsee's Automation Guide V1.1
-Check out her socials <sub>down below</sub>
-[https://www.twitch.tv/Elsee](Twitch)
-Discord: ElseeDiem
-Twitter: twitter.com/ElseeDiem
+This document is never finalized and I will continue to update as long as I'm interested :)
